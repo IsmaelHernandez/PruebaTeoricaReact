@@ -1,0 +1,17 @@
+.container__header{
+    display: flex;
+    width: 100%;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.item__header{
+    background-color: #34495E;
+    width: 100%;
+    height: 100px;
+}
+
+.App{
+    background-color: #f8f9fa;;
+}
